@@ -5,4 +5,5 @@ void main()
 	printf("");
 	printf("you are a big one");
 	printf("bigger than bigger");
+	int a;
 }
